@@ -2,7 +2,7 @@
     "name": "BuurtBakkerij_Pack",
     "version_number": "1.0.0",
     "website_url": "https://github.com/BenteDw12/BuurtBakkerij-Pack/",
-    "description": "Test modpack",
+    "description": "Fun bug sounds for now...",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Clementinise-CustomSounds-1.2.3",
